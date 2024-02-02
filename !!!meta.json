@@ -74,6 +74,13 @@
 					"value": "gsBlXv0gA2yG",
 					"isInheritable": false,
 					"position": 80
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "6piuWOJkpazy",
+					"isInheritable": false,
+					"position": 90
 				}
 			],
 			"attachments": [],
